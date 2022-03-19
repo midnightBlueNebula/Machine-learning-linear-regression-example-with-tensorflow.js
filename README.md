@@ -1,1 +1,1 @@
-# Machine-learning-linear-regression-example-with-tensorflow.js
+Machine learning linear regression example with TensorFlow.js library. (from Google AI EDX course).
